@@ -15,4 +15,10 @@ public class TestGit {
         System.out.println("我是游戏分支");
     }
 
+    public static void test() {
+        System.out.println("我是测试分支");
+        System.out.println("开始对游戏功能进行测试");
+        System.out.println("测试完成");
+    }
+
 }
